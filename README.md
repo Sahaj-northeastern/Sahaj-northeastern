@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> Hi I am a student
- Currently a first year Bachelor of Computer Science at Khoury College of Computer Sciences.
+  I am Sahaj Baxi, currently a first year Bachelor of Computer Science at Khoury College of Computer Sciences and I am expected to graduate in May 2027.
 
